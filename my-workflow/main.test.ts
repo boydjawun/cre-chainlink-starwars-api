@@ -1,3 +1,4 @@
+//bun add -d @types/bun | bun add -d typescript @types/bun . Also change config, check assets folder
 import { expect } from "bun:test";
 import { test, newTestRuntime, HttpActionsMock } from "@chainlink/cre-sdk/test";
 import { onCronTrigger } from "./main";
