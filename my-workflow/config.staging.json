@@ -1,0 +1,4 @@
+{
+  "schedule": "*/30 * * * * *",
+  "apiUrl": "https://www.swapi.tech/api/people/1"
+}
